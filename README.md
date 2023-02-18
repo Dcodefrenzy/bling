@@ -8,12 +8,12 @@ This project was built with Express/Typescript.
 ## Before Installation
 - We Need to Install MySQL database and connect through the .env
 
-To Install dependencies 
+## To Install dependencies 
 
 ### `npm install`
 This installs all needed dependencies
 
-To Start the app
+## To Start the app
 ### `npm run dev`
 
 Runs the app in the development mode.\
@@ -22,10 +22,10 @@ Open [http://localhost:8080](http://localhost:8080).
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-Builds the app for production to the `build` folder.\
+## Builds the app for production to the `build` folder.\
 ### `npm run build`
 
-To Run Tests for the Api 
+## To Run Tests for the Api 
 
 ### `npm run test`
 
