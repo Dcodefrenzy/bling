@@ -4,12 +4,11 @@ This project was built with Express/Typescript.
 
 ## Available Scripts
 
-In the project directory, you can run:
-Before Installation
 
-## We Need to Install MySQL database and connect through the .env
+## Before Installation
+- We Need to Install MySQL database and connect through the .env
 
-- To Install dependencies 
+To Install dependencies 
 
 ### `npm install`
 This installs all needed dependencies
